@@ -4,7 +4,7 @@ from data import new_df, df, countries
 from config import TOKEN
 
 
-bot = telebot.TeleBot(TOKEN)
+bot = telebot.TeleBot(6080021852:AAE-XaNhRZZepOpy5QIUNt8Dz3LWS8_J-Tc)
 
 
 @bot.message_handler(commands=['start'])
